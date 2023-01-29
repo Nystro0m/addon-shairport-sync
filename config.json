@@ -40,7 +40,3 @@
   },
   "environment": {
     "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
-  },
-  "image": "maidok/{arch}-addon-shairport-sync"
-}
-
